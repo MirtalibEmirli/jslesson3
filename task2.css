@@ -35,8 +35,11 @@ body{
   width: 100%;
  
 }
+
+.m
 .maindiv img{
-  width: 400px;
+  height: 250px;
+  width: 540px;
   margin: 0;
 }
 .imgsdiv img{
